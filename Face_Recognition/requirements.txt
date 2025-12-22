@@ -1,0 +1,4 @@
+deepface
+gradio
+opencv-python
+numpy
