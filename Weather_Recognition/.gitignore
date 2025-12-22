@@ -1,0 +1,41 @@
+# Dataset folder
+data/
+model/
+
+# Model files
+models/*.pkl
+models/*.h5
+models/*.pth
+models/*.ckpt
+models/*.joblib
+
+# Outputs (keep folder, ignore contents except sample)
+outputs/*
+!outputs/.gitkeep
+!outputs/sample_predictions.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+.test.py
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
