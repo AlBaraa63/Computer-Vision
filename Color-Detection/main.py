@@ -22,7 +22,7 @@ while True:
 
     # Create mask for yellow color
     mask = cv2.inRange(hsv_image, lower_limit, upper_limit)
-    mask = cv2.medianBlur(mask, 3, 3)
+    mask = cv2.medianBlur(mask, 3)
     mask_img = Image.fromarray(mask)
 
     # Get bounding box of detected area
