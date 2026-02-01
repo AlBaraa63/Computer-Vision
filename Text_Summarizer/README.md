@@ -122,7 +122,7 @@ python project.py "as bullet points"
 ## Author & Submission Details
 
 * **Name:** AlBaraa Mohammad
-* **GitHub Username:** AlBaraa-1
+* **GitHub Username:** AlBaraa63
 * **edX Username:** albaraa\_63
 * **City/Country:** UAE/AD
 * **Video Demo:** [https://youtu.be/7m9xP-cEmDo](https://youtu.be/7m9xP-cEmDo)

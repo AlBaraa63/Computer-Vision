@@ -38,7 +38,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AlBaraa-1/Computer-vision.git
+   git clone https://github.com/AlBaraa63/Computer-vision.git
    cd Computer-vision/image_classification
    ```
 
@@ -245,8 +245,8 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**AlBaraa-1**
-- GitHub: [@AlBaraa-1](https://github.com/AlBaraa-1)
+**AlBaraa63**
+- GitHub: [@AlBaraa63](https://github.com/AlBaraa63)
 
 ---
 

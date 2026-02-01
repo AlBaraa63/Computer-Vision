@@ -94,7 +94,7 @@ weather_recognition/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AlBaraa-1/Computer-vision.git
+   git clone https://github.com/AlBaraa63/Computer-vision.git
    cd Computer-vision/weather_recognition
    ```
 

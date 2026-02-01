@@ -40,7 +40,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AlBaraa-1/Computer-vision.git
+   git clone https://github.com/AlBaraa63/Computer-vision.git
    cd Computer-vision/color_detection
    ```
 
@@ -397,8 +397,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-**Author:** AlBaraa-1  
-**Repository:** [Computer-vision](https://github.com/AlBaraa-1/Computer-vision)
+**Author:** AlBaraa63  
+**Repository:** [Computer-vision](https://github.com/AlBaraa63/Computer-vision)
 
 ---
 

@@ -41,7 +41,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AlBaraa-1/Computer-vision.git
+   git clone https://github.com/AlBaraa63/Computer-vision.git
    cd Computer-vision/face_anonymizer
    ```
 
@@ -474,8 +474,8 @@ The developers assume no liability for misuse of this software.
 
 ## 📧 Contact
 
-**Author:** AlBaraa-1  
-**Repository:** [Computer-vision](https://github.com/AlBaraa-1/Computer-vision)
+**Author:** AlBaraa63  
+**Repository:** [Computer-vision](https://github.com/AlBaraa63/Computer-vision)
 
 ---
 
