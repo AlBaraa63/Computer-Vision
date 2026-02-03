@@ -10,54 +10,35 @@ This repository is dedicated to experimenting with computer vision concepts, mod
 
 ## 📂 Projects Overview
 
-### 🎯 [Baby Steps](./baby_steps)
-A comprehensive collection of 12 fundamental OpenCV implementations covering:
-- Image/Video I/O operations
-- Image manipulation (cropping, resizing, color spaces)
-- Processing techniques (blurring, thresholding, edge detection)
-- Advanced features (contour detection, face detection)
-
-### 🗑️ [CleanEye](./CleanEye)
-AI-powered garbage detection system built for ADIPEC 2025
-- YOLOv8-based waste identification
-- Multi-source support (images, videos, webcam)
-- Web dashboard with analytics
-- GPS-tagged detections and comprehensive reports
-
-### 🎨 [Color Detection](./color_detection)
+### 🎨 [Color Detection](./color-detection)
 Real-time color detection system
 - Live color tracking from webcam feed
 - HSV-based detection for robust accuracy
 - Customizable color ranges and sensitivity
 
-### 🔒 [Face Anonymizer](./face_anonymizer)
+### 🔒 [Face Anonymizer](./face-anonymizer)
 Privacy protection tool for face blurring
 - AI-powered face detection using MediaPipe
 - Multi-mode support (images, videos, webcam)
 - Adjustable blur intensity
 - Batch processing capabilities
 
-### 👤 [Face Recognition](./face_recognition)
+### 👤 [Face Recognition](./face-recognition)
 Face recognition implementation
 - Real-time face identification
 - Custom face database management
 
-### 🖼️ [Image Classification](./image_classification)
+### 🖼️ [Image Classification](./image-classification)
 Image classification system
 - Custom model training
 - Car vs. non-car classification example
 
-### 📝 [Text Detection](./text_detection)
-Text detection and extraction from images
-- OCR implementation
-- Preprocessing utilities
-
-### 📄 [Text Summarizer](./text_summarizer)
+### 📄 [Text Summarizer](./text-summarizer)
 Automatic text summarization tool
 - NLP-based text analysis
 - Customizable summary length
 
-### ☁️ [Weather Recognition](./weather_recognition)
+### ☁️ [Weather Recognition](./weather-recognition)
 Weather condition classification from images
 - Random Forest model
 - 4 weather categories (cloudy, rainy, shine, sunrise)
